@@ -1,0 +1,1 @@
+This repository contains a Python code example that demonstrates how to handle potential errors when calculating the average of a list of numbers. The example shows how to gracefully handle empty lists to avoid a ZeroDivisionError. The solution demonstrates a robust way to compute averages while accounting for edge cases.
